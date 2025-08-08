@@ -71,6 +71,7 @@ def configure_llama_index():
         Settings.embed_model = embed_model
         Settings.chunk_size = 1024
         Settings.chunk_overlap = 200
+        Settings.embed_batch_size = 50
         
         logger.info("LlamaIndex configured successfully with 100% FREE models")
         return llm
