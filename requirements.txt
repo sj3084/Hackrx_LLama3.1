@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+requests
+
+llama-index-core
+llama-index-llms-groq
+llama-index-embeddings-cohere
+
+pypdf
+pydantic
+
+numpy
