@@ -7,6 +7,7 @@ requests
 llama-index-core
 llama-index-llms-groq
 llama-index-embeddings-cohere
+llama-index-readers-file
 
 pypdf
 pydantic
